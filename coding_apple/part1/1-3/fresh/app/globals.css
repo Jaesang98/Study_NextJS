@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  background-color: #303030;
+  color: white;
+}
+
+.title {
+  text-align: center;
+  margin-top: 150px;
+}
+.title-sub {
+  text-align: center;
+}
